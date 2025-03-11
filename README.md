@@ -1,1 +1,1 @@
-Please execute these codes by pasting it into your browser's developer console.
+Please paste this into the console of your browser's developer tools.
