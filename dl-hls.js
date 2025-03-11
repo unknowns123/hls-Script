@@ -1,4 +1,4 @@
-//Download m3u file from some VOD services
+//Download m3u file from some VOD services w/o encryption.
 
 
 //For http live streaming service (This script is generally compatible with smartphones and similar devices.)
