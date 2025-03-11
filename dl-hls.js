@@ -6,7 +6,7 @@ const video = document.querySelector('video');
 video && video.src ? console.log("Extracted m3u8 link:", video.src) : console.log("m3u8 link not found.");
 
 
-//For some video services (From computer)
+//For some video services (Generally for PC.)
 (async () => {
   const m3uUrls = [];
   const entries = performance.getEntries();
